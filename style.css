@@ -1,0 +1,45 @@
+body {
+    background: #DA62C3;
+    text-align: center;
+}
+
+h1 {
+    color: #8F0177;
+    border-style: solid;
+    border-color: rgb(237, 137, 79);
+    border-width: 5px;
+    padding: 10px;
+}
+
+#cartoon_name {
+    text-decoration: underline;
+    font-size: 40px;
+    width: 350px;
+    margin: auto;
+}
+
+a {
+    color: #62DA79;
+    font-size: 20px;
+    border: 2px solid white;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+p {
+    color: #410445;
+    word-spacing: 5px;
+    font-variant: small-caps;
+    font-size: 20px;
+    font-family: Arial;
+}
+
+.more_about_cartoon {
+    color: #43334C;
+    font-size: 18px;
+}
+
+img {
+    width: 250px;
+    border-radius: 15px;
+}
